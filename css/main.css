@@ -14,7 +14,7 @@ body {
 
 img {
   display: block;
-  width 100%;
+  width: 100%;
 }
 
 .footer {
@@ -39,7 +39,7 @@ img {
   margin-top: 0;
   margin-bottom: 1.5rem;
   padding-left: 0;
-  list-style-type;
+  list-style-type: none;
 }
 
 .footer a {
@@ -60,4 +60,8 @@ img {
 .copyright {
   padding: 0 1rem;
   width: 100%;
+}
+
+.links {
+  padding: 0 1rem;
 }
